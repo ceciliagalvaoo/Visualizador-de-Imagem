@@ -59,7 +59,7 @@ O sistema foi desenvolvido com foco em robustez, incluindo tratamento para os se
 2. Instale as dependências com o comando:
 
    ```bash
-   pip install opencv-python pillow PySimpleGUI
+   pip install numpy opencv-python pillow PySimpleGUI 
    ```
 3. Execute o script principal:
 
