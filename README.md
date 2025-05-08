@@ -8,7 +8,7 @@ A proposta une fundamentos de visão computacional com usabilidade prática, dem
 
 ## Demonstração em Vídeo
 
-Você pode assistir à explicação completa do projeto neste vídeo: [🔗 Link para o vídeo no Google Drive](https://drive.google.com/file/d/1a9WU2Jw7RVOjw2przwvCSYEqqc3yD-6q/view?usp=sharing)
+Você pode assistir à explicação completa do projeto neste vídeo: [🔗 Link para o vídeo no Google Drive](https://drive.google.com/file/d/1qH6gWZpbNj1uJq8aouTfVEy5GcxRA-Z_/view?usp=sharing)
 
 ## Funcionalidades
 
